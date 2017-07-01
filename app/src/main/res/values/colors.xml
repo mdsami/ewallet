@@ -9,4 +9,7 @@
     <color name="app_bg">#0F4671</color>
     <color name="white">#ffffff</color>
     <color name="light_blue">#34B5E5</color>
+
+    <color name="primary_navy_dark">#ff153a62</color>
+    <color name="primary_navy_medium">#ff004a7c</color>
 </resources>

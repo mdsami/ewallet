@@ -19,8 +19,6 @@
     <string name="settings_account_access_token">access_token</string>
 
 
-
-
     <string name="msg_loading">Please wait...</string>
     <string name="msg_network_error">Please check your Internet connection</string>
     <string name="msg_account_blocked">This account is blocked by a moderator.</string>
